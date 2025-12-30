@@ -14,7 +14,7 @@ Add the component to your Hugo site's config:
 ```toml
 [module]
 [[module.imports]]
-path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+path = "github.com/coopdegallix/hugo-mod-bootstrap-scss/v5"
 ```
 
 ### SCSS
